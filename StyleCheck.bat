@@ -1,7 +1,7 @@
 @ECHO OFF
-set "CheckStylePath=C:\Users\tboch\Desktop\Java_Workspace\checkstyle.jar"
-set "CodeCheckLoc=C:\Users\tboch\Desktop\Java_Workspace\cs310code.xml"
-set "CommentCheckLoc=C:\Users\tboch\Desktop\Java_Workspace\cs310comments.xml"
+set "CheckStylePath=#Insert file location#\checkstyle.jar"
+set "CodeCheckLoc=#Insert file location#\cs310code.xml"
+set "CommentCheckLoc=#Insert file location#\cs310comments.xml"
 
 set CodeLoc = %1
 ECHO ------------Code Check---------------
