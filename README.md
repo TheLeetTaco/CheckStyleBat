@@ -1,10 +1,11 @@
 # CheckStyleBat
-Runs both code and comment checkstyles in terminal
+Runs both code and comment checkstyles in terminal.
 
-To set up open .bat file in notepad and replace #Insert file location# with the corresponding locations.
+To set up just drop the .bat into the project folder with your code in it.
 
-Move .bat file to where terminal is executed typically its C:/Users/"Username" (I find this easier to remember) or just type out location before running bat file in terminal
-
-When in terminal to run do StyleCheck.bat "Code to be checked File location" or "file location"\StyleCheck.bat "Code to be checked File location"
+Drag and drop the files to test (can be more than one at a time) onto the .bat.
 
 It will then output the results to the terminal.
+
+Example Usage:
+![](https://i.imgur.com/5r7Tgwa.gif)
